@@ -5,10 +5,7 @@ bl_info = {
     "version": (1, 0),
     "blender": (4, 0, 0),
     "location": "Search Menu > Locate Project In Explorer",
-    #"warning": "", #"Opening location of project failed!", # used for warning icon and text in addons panel
-    "doc_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/"
-                "Scripts/My_Script",
-    #"tracker_url": "https://developer.blender.org/maniphest/task/edit/form/2/",
+    "doc_url": "https://github.com/Nekupaska/LocateProjectInExplorer",
     "support": "COMMUNITY",
     "category": "System",
 }
